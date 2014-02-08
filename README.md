@@ -1,6 +1,6 @@
 # karma-jquery-expect
 
-Preprocessor for [jquery-expect](https://github.com/Codecademy/jquery-expect). A DOM assertion library built on top of jQuery and based on LearnBoost's expect.js
+Framework for [jquery-expect](https://github.com/Codecademy/jquery-expect). A DOM assertion library built on top of jQuery and based on LearnBoost's expect.js
 
 ## Installation
 
