@@ -1,0 +1,40 @@
+{
+  "name": "karma-jquery-expect",
+  "version": "0.1.3",
+  "author": {
+    "name": "Maksim Ryzhikov",
+    "email": "rv.maksim@yandex.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maksimr/karma-jquery-expect.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maksimr/karma-jquery-expect/issues"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-expect",
+    "karma-jquery",
+    "jquery-expect",
+    "jquery",
+    "mocha",
+    "test",
+    "expect"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "~2.1.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cli": "~0.1.9",
+    "grunt-npm": "~0.0.2",
+    "grunt-bump": "~0.0.7",
+    "load-grunt-tasks": "~0.2.0"
+  },
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "contributors": []
+}
