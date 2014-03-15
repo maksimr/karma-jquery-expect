@@ -36,5 +36,7 @@
   "peerDependencies": {
     "karma": ">=0.9"
   },
-  "contributors": []
+  "contributors": [
+    "Sasha Koss <kossnocorp@gmail.com>"
+  ]
 }
